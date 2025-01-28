@@ -1,0 +1,129 @@
+C:\Users\aless\Desktop\Progetti\C#\GiocoDellaVita\obj\Debug\net8.0-windows\GiocoDellaVita.Campo.resources
+C:\Users\aless\Desktop\Progetti\C#\GiocoDellaVita\obj\Debug\net8.0-windows\GiocoDellaVita.Dimensioni.resources
+C:\Users\aless\Desktop\Progetti\C#\GiocoDellaVita\obj\Debug\net8.0-windows\GiocoDellaVita.csproj.GenerateResource.cache
+C:\Users\aless\Desktop\Progetti\C#\GiocoDellaVita\obj\Debug\net8.0-windows\GiocoDellaVita.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aless\Desktop\Progetti\C#\GiocoDellaVita\obj\Debug\net8.0-windows\GiocoDellaVita.AssemblyInfoInputs.cache
+C:\Users\aless\Desktop\Progetti\C#\GiocoDellaVita\obj\Debug\net8.0-windows\GiocoDellaVita.AssemblyInfo.cs
+C:\Users\aless\Desktop\Progetti\C#\GiocoDellaVita\obj\Debug\net8.0-windows\GiocoDellaVita.csproj.CoreCompileInputs.cache
+C:\Users\aless\Desktop\Progetti\C#\GiocoDellaVita\bin\Debug\net8.0-windows\GiocoDellaVita.exe
+C:\Users\aless\Desktop\Progetti\C#\GiocoDellaVita\bin\Debug\net8.0-windows\GiocoDellaVita.deps.json
+C:\Users\aless\Desktop\Progetti\C#\GiocoDellaVita\bin\Debug\net8.0-windows\GiocoDellaVita.runtimeconfig.json
+C:\Users\aless\Desktop\Progetti\C#\GiocoDellaVita\bin\Debug\net8.0-windows\GiocoDellaVita.dll
+C:\Users\aless\Desktop\Progetti\C#\GiocoDellaVita\bin\Debug\net8.0-windows\GiocoDellaVita.pdb
+C:\Users\aless\Desktop\Progetti\C#\GiocoDellaVita\obj\Debug\net8.0-windows\GiocoDellaVita.dll
+C:\Users\aless\Desktop\Progetti\C#\GiocoDellaVita\obj\Debug\net8.0-windows\refint\GiocoDellaVita.dll
+C:\Users\aless\Desktop\Progetti\C#\GiocoDellaVita\obj\Debug\net8.0-windows\GiocoDellaVita.pdb
+C:\Users\aless\Desktop\Progetti\C#\GiocoDellaVita\obj\Debug\net8.0-windows\GiocoDellaVita.genruntimeconfig.cache
+C:\Users\aless\Desktop\Progetti\C#\GiocoDellaVita\obj\Debug\net8.0-windows\ref\GiocoDellaVita.dll
+C:\Users\aless\Desktop\Progetti\C#\classi-AlessandroPigaiani-GiocoDellaVita\bin\Debug\net8.0-windows\GiocoDellaVita.exe
+C:\Users\aless\Desktop\Progetti\C#\classi-AlessandroPigaiani-GiocoDellaVita\bin\Debug\net8.0-windows\GiocoDellaVita.deps.json
+C:\Users\aless\Desktop\Progetti\C#\classi-AlessandroPigaiani-GiocoDellaVita\bin\Debug\net8.0-windows\GiocoDellaVita.runtimeconfig.json
+C:\Users\aless\Desktop\Progetti\C#\classi-AlessandroPigaiani-GiocoDellaVita\bin\Debug\net8.0-windows\GiocoDellaVita.dll
+C:\Users\aless\Desktop\Progetti\C#\classi-AlessandroPigaiani-GiocoDellaVita\bin\Debug\net8.0-windows\GiocoDellaVita.pdb
+C:\Users\aless\Desktop\Progetti\C#\classi-AlessandroPigaiani-GiocoDellaVita\obj\Debug\net8.0-windows\GiocoDellaVita.Campo.resources
+C:\Users\aless\Desktop\Progetti\C#\classi-AlessandroPigaiani-GiocoDellaVita\obj\Debug\net8.0-windows\GiocoDellaVita.Dimensioni.resources
+C:\Users\aless\Desktop\Progetti\C#\classi-AlessandroPigaiani-GiocoDellaVita\obj\Debug\net8.0-windows\GiocoDellaVita.csproj.GenerateResource.cache
+C:\Users\aless\Desktop\Progetti\C#\classi-AlessandroPigaiani-GiocoDellaVita\obj\Debug\net8.0-windows\GiocoDellaVita.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aless\Desktop\Progetti\C#\classi-AlessandroPigaiani-GiocoDellaVita\obj\Debug\net8.0-windows\GiocoDellaVita.AssemblyInfoInputs.cache
+C:\Users\aless\Desktop\Progetti\C#\classi-AlessandroPigaiani-GiocoDellaVita\obj\Debug\net8.0-windows\GiocoDellaVita.AssemblyInfo.cs
+C:\Users\aless\Desktop\Progetti\C#\classi-AlessandroPigaiani-GiocoDellaVita\obj\Debug\net8.0-windows\GiocoDellaVita.csproj.CoreCompileInputs.cache
+C:\Users\aless\Desktop\Progetti\C#\classi-AlessandroPigaiani-GiocoDellaVita\obj\Debug\net8.0-windows\GiocoDellaVita.dll
+C:\Users\aless\Desktop\Progetti\C#\classi-AlessandroPigaiani-GiocoDellaVita\obj\Debug\net8.0-windows\refint\GiocoDellaVita.dll
+C:\Users\aless\Desktop\Progetti\C#\classi-AlessandroPigaiani-GiocoDellaVita\obj\Debug\net8.0-windows\GiocoDellaVita.pdb
+C:\Users\aless\Desktop\Progetti\C#\classi-AlessandroPigaiani-GiocoDellaVita\obj\Debug\net8.0-windows\GiocoDellaVita.genruntimeconfig.cache
+C:\Users\aless\Desktop\Progetti\C#\classi-AlessandroPigaiani-GiocoDellaVita\obj\Debug\net8.0-windows\ref\GiocoDellaVita.dll
+C:\Users\aless\Desktop\Progetti\C#\classi-AlessandroPigaiani-GiocoDellaVita\obj\Debug\net8.0-windows\GiocoDellaVita.Properties.Resources.resources
+C:\Users\aless\Downloads\1\classi-AlessandroPigaiani-GiocoDellaVita\obj\Debug\net8.0-windows\GiocoDellaVita.dll
+C:\Users\aless\Downloads\1\classi-AlessandroPigaiani-GiocoDellaVita\obj\Debug\net8.0-windows\refint\GiocoDellaVita.dll
+C:\Users\aless\Downloads\1\classi-AlessandroPigaiani-GiocoDellaVita\obj\Debug\net8.0-windows\GiocoDellaVita.pdb
+C:\Users\aless\Desktop\Progetti\C#\gioco vita\classi-AlessandroPigaiani-GiocoDellaVita\obj\Debug\net8.0-windows\GiocoDellaVita.dll
+C:\Users\aless\Desktop\Progetti\C#\gioco vita\classi-AlessandroPigaiani-GiocoDellaVita\obj\Debug\net8.0-windows\refint\GiocoDellaVita.dll
+C:\Users\aless\Desktop\Progetti\C#\gioco vita\classi-AlessandroPigaiani-GiocoDellaVita\obj\Debug\net8.0-windows\GiocoDellaVita.pdb
+C:\Users\aless\Desktop\Progetti\C#\gioco vita\classi-AlessandroPigaiani-GiocoDellaVita\bin\Debug\net8.0-windows\GiocoDellaVita.exe
+C:\Users\aless\Desktop\Progetti\C#\gioco vita\classi-AlessandroPigaiani-GiocoDellaVita\bin\Debug\net8.0-windows\GiocoDellaVita.deps.json
+C:\Users\aless\Desktop\Progetti\C#\gioco vita\classi-AlessandroPigaiani-GiocoDellaVita\bin\Debug\net8.0-windows\GiocoDellaVita.runtimeconfig.json
+C:\Users\aless\Desktop\Progetti\C#\gioco vita\classi-AlessandroPigaiani-GiocoDellaVita\bin\Debug\net8.0-windows\GiocoDellaVita.dll
+C:\Users\aless\Desktop\Progetti\C#\gioco vita\classi-AlessandroPigaiani-GiocoDellaVita\bin\Debug\net8.0-windows\GiocoDellaVita.pdb
+C:\Users\aless\Desktop\Progetti\C#\gioco vita\classi-AlessandroPigaiani-GiocoDellaVita\obj\Debug\net8.0-windows\GiocoDellaVita.Campo.resources
+C:\Users\aless\Desktop\Progetti\C#\gioco vita\classi-AlessandroPigaiani-GiocoDellaVita\obj\Debug\net8.0-windows\GiocoDellaVita.Dimensioni.resources
+C:\Users\aless\Desktop\Progetti\C#\gioco vita\classi-AlessandroPigaiani-GiocoDellaVita\obj\Debug\net8.0-windows\GiocoDellaVita.Properties.Resources.resources
+C:\Users\aless\Desktop\Progetti\C#\gioco vita\classi-AlessandroPigaiani-GiocoDellaVita\obj\Debug\net8.0-windows\GiocoDellaVita.csproj.GenerateResource.cache
+C:\Users\aless\Desktop\Progetti\C#\gioco vita\classi-AlessandroPigaiani-GiocoDellaVita\obj\Debug\net8.0-windows\GiocoDellaVita.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aless\Desktop\Progetti\C#\gioco vita\classi-AlessandroPigaiani-GiocoDellaVita\obj\Debug\net8.0-windows\GiocoDellaVita.AssemblyInfoInputs.cache
+C:\Users\aless\Desktop\Progetti\C#\gioco vita\classi-AlessandroPigaiani-GiocoDellaVita\obj\Debug\net8.0-windows\GiocoDellaVita.AssemblyInfo.cs
+C:\Users\aless\Desktop\Progetti\C#\gioco vita\classi-AlessandroPigaiani-GiocoDellaVita\obj\Debug\net8.0-windows\GiocoDellaVita.csproj.CoreCompileInputs.cache
+C:\Users\aless\Desktop\Progetti\C#\gioco vita\classi-AlessandroPigaiani-GiocoDellaVita\obj\Debug\net8.0-windows\GiocoDellaVita.genruntimeconfig.cache
+C:\Users\aless\Desktop\Progetti\C#\gioco vita\classi-AlessandroPigaiani-GiocoDellaVita\obj\Debug\net8.0-windows\ref\GiocoDellaVita.dll
+C:\Users\aless\Downloads\classi-AlessandroPigaiani-Gio434324242coDellaVita\classi-AlessandroPigaiani-GiocoDellaVita\obj\Debug\net8.0-windows\GiocoDellaVita.dll
+C:\Users\aless\Downloads\classi-AlessandroPigaiani-Gio434324242coDellaVita\classi-AlessandroPigaiani-GiocoDellaVita\obj\Debug\net8.0-windows\refint\GiocoDellaVita.dll
+C:\Users\aless\Downloads\classi-AlessandroPigaiani-Gio434324242coDellaVita\classi-AlessandroPigaiani-GiocoDellaVita\obj\Debug\net8.0-windows\GiocoDellaVita.pdb
+C:\Users\aless\Downloads\classi-AlessandroPigaiani-Gio434324242coDellaVita\classi-AlessandroPigaiani-GiocoDellaVita\bin\Debug\net8.0-windows\GiocoDellaVita.exe
+C:\Users\aless\Downloads\classi-AlessandroPigaiani-Gio434324242coDellaVita\classi-AlessandroPigaiani-GiocoDellaVita\bin\Debug\net8.0-windows\GiocoDellaVita.deps.json
+C:\Users\aless\Downloads\classi-AlessandroPigaiani-Gio434324242coDellaVita\classi-AlessandroPigaiani-GiocoDellaVita\bin\Debug\net8.0-windows\GiocoDellaVita.runtimeconfig.json
+C:\Users\aless\Downloads\classi-AlessandroPigaiani-Gio434324242coDellaVita\classi-AlessandroPigaiani-GiocoDellaVita\bin\Debug\net8.0-windows\GiocoDellaVita.dll
+C:\Users\aless\Downloads\classi-AlessandroPigaiani-Gio434324242coDellaVita\classi-AlessandroPigaiani-GiocoDellaVita\bin\Debug\net8.0-windows\GiocoDellaVita.pdb
+C:\Users\aless\Downloads\classi-AlessandroPigaiani-Gio434324242coDellaVita\classi-AlessandroPigaiani-GiocoDellaVita\obj\Debug\net8.0-windows\GiocoDellaVita.Campo.resources
+C:\Users\aless\Downloads\classi-AlessandroPigaiani-Gio434324242coDellaVita\classi-AlessandroPigaiani-GiocoDellaVita\obj\Debug\net8.0-windows\GiocoDellaVita.Dimensioni.resources
+C:\Users\aless\Downloads\classi-AlessandroPigaiani-Gio434324242coDellaVita\classi-AlessandroPigaiani-GiocoDellaVita\obj\Debug\net8.0-windows\GiocoDellaVita.Properties.Resources.resources
+C:\Users\aless\Downloads\classi-AlessandroPigaiani-Gio434324242coDellaVita\classi-AlessandroPigaiani-GiocoDellaVita\obj\Debug\net8.0-windows\GiocoDellaVita.csproj.GenerateResource.cache
+C:\Users\aless\Downloads\classi-AlessandroPigaiani-Gio434324242coDellaVita\classi-AlessandroPigaiani-GiocoDellaVita\obj\Debug\net8.0-windows\GiocoDellaVita.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aless\Downloads\classi-AlessandroPigaiani-Gio434324242coDellaVita\classi-AlessandroPigaiani-GiocoDellaVita\obj\Debug\net8.0-windows\GiocoDellaVita.AssemblyInfoInputs.cache
+C:\Users\aless\Downloads\classi-AlessandroPigaiani-Gio434324242coDellaVita\classi-AlessandroPigaiani-GiocoDellaVita\obj\Debug\net8.0-windows\GiocoDellaVita.AssemblyInfo.cs
+C:\Users\aless\Downloads\classi-AlessandroPigaiani-Gio434324242coDellaVita\classi-AlessandroPigaiani-GiocoDellaVita\obj\Debug\net8.0-windows\GiocoDellaVita.csproj.CoreCompileInputs.cache
+C:\Users\aless\Downloads\classi-AlessandroPigaiani-Gio434324242coDellaVita\classi-AlessandroPigaiani-GiocoDellaVita\obj\Debug\net8.0-windows\GiocoDellaVita.genruntimeconfig.cache
+C:\Users\aless\Downloads\classi-AlessandroPigaiani-Gio434324242coDellaVita\classi-AlessandroPigaiani-GiocoDellaVita\obj\Debug\net8.0-windows\ref\GiocoDellaVita.dll
+C:\Users\aless\Desktop\classi-AlessandroPigaiani-GiocoDellaVita\bin\Debug\net8.0-windows\GiocoDellaVita.exe
+C:\Users\aless\Desktop\classi-AlessandroPigaiani-GiocoDellaVita\bin\Debug\net8.0-windows\GiocoDellaVita.deps.json
+C:\Users\aless\Desktop\classi-AlessandroPigaiani-GiocoDellaVita\bin\Debug\net8.0-windows\GiocoDellaVita.runtimeconfig.json
+C:\Users\aless\Desktop\classi-AlessandroPigaiani-GiocoDellaVita\bin\Debug\net8.0-windows\GiocoDellaVita.dll
+C:\Users\aless\Desktop\classi-AlessandroPigaiani-GiocoDellaVita\bin\Debug\net8.0-windows\GiocoDellaVita.pdb
+C:\Users\aless\Desktop\classi-AlessandroPigaiani-GiocoDellaVita\obj\Debug\net8.0-windows\GiocoDellaVita.Campo.resources
+C:\Users\aless\Desktop\classi-AlessandroPigaiani-GiocoDellaVita\obj\Debug\net8.0-windows\GiocoDellaVita.Properties.Resources.resources
+C:\Users\aless\Desktop\classi-AlessandroPigaiani-GiocoDellaVita\obj\Debug\net8.0-windows\GiocoDellaVita.csproj.GenerateResource.cache
+C:\Users\aless\Desktop\classi-AlessandroPigaiani-GiocoDellaVita\obj\Debug\net8.0-windows\GiocoDellaVita.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aless\Desktop\classi-AlessandroPigaiani-GiocoDellaVita\obj\Debug\net8.0-windows\GiocoDellaVita.AssemblyInfoInputs.cache
+C:\Users\aless\Desktop\classi-AlessandroPigaiani-GiocoDellaVita\obj\Debug\net8.0-windows\GiocoDellaVita.AssemblyInfo.cs
+C:\Users\aless\Desktop\classi-AlessandroPigaiani-GiocoDellaVita\obj\Debug\net8.0-windows\GiocoDellaVita.csproj.CoreCompileInputs.cache
+C:\Users\aless\Desktop\classi-AlessandroPigaiani-GiocoDellaVita\obj\Debug\net8.0-windows\GiocoDellaVita.dll
+C:\Users\aless\Desktop\classi-AlessandroPigaiani-GiocoDellaVita\obj\Debug\net8.0-windows\refint\GiocoDellaVita.dll
+C:\Users\aless\Desktop\classi-AlessandroPigaiani-GiocoDellaVita\obj\Debug\net8.0-windows\GiocoDellaVita.pdb
+C:\Users\aless\Desktop\classi-AlessandroPigaiani-GiocoDellaVita\obj\Debug\net8.0-windows\GiocoDellaVita.genruntimeconfig.cache
+C:\Users\aless\Desktop\classi-AlessandroPigaiani-GiocoDellaVita\obj\Debug\net8.0-windows\ref\GiocoDellaVita.dll
+C:\Users\aless\Desktop\classi-AlessandroPigaiani-GiocoDellaVita\obj\Debug\net8.0-windows\GiocoDellaVita.Impostazioni.resources
+C:\Users\aless\Desktop\Nuova cartella\classi-AlessandroPigaiani-GiocoDellaVita\bin\Debug\net8.0-windows\GiocoDellaVita.exe
+C:\Users\aless\Desktop\Nuova cartella\classi-AlessandroPigaiani-GiocoDellaVita\bin\Debug\net8.0-windows\GiocoDellaVita.deps.json
+C:\Users\aless\Desktop\Nuova cartella\classi-AlessandroPigaiani-GiocoDellaVita\bin\Debug\net8.0-windows\GiocoDellaVita.runtimeconfig.json
+C:\Users\aless\Desktop\Nuova cartella\classi-AlessandroPigaiani-GiocoDellaVita\bin\Debug\net8.0-windows\GiocoDellaVita.dll
+C:\Users\aless\Desktop\Nuova cartella\classi-AlessandroPigaiani-GiocoDellaVita\bin\Debug\net8.0-windows\GiocoDellaVita.pdb
+C:\Users\aless\Desktop\Nuova cartella\classi-AlessandroPigaiani-GiocoDellaVita\obj\Debug\net8.0-windows\GiocoDellaVita.Campo.resources
+C:\Users\aless\Desktop\Nuova cartella\classi-AlessandroPigaiani-GiocoDellaVita\obj\Debug\net8.0-windows\GiocoDellaVita.Impostazioni.resources
+C:\Users\aless\Desktop\Nuova cartella\classi-AlessandroPigaiani-GiocoDellaVita\obj\Debug\net8.0-windows\GiocoDellaVita.Properties.Resources.resources
+C:\Users\aless\Desktop\Nuova cartella\classi-AlessandroPigaiani-GiocoDellaVita\obj\Debug\net8.0-windows\GiocoDellaVita.csproj.GenerateResource.cache
+C:\Users\aless\Desktop\Nuova cartella\classi-AlessandroPigaiani-GiocoDellaVita\obj\Debug\net8.0-windows\GiocoDellaVita.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aless\Desktop\Nuova cartella\classi-AlessandroPigaiani-GiocoDellaVita\obj\Debug\net8.0-windows\GiocoDellaVita.AssemblyInfoInputs.cache
+C:\Users\aless\Desktop\Nuova cartella\classi-AlessandroPigaiani-GiocoDellaVita\obj\Debug\net8.0-windows\GiocoDellaVita.AssemblyInfo.cs
+C:\Users\aless\Desktop\Nuova cartella\classi-AlessandroPigaiani-GiocoDellaVita\obj\Debug\net8.0-windows\GiocoDellaVita.csproj.CoreCompileInputs.cache
+C:\Users\aless\Desktop\Nuova cartella\classi-AlessandroPigaiani-GiocoDellaVita\obj\Debug\net8.0-windows\GiocoDellaVita.dll
+C:\Users\aless\Desktop\Nuova cartella\classi-AlessandroPigaiani-GiocoDellaVita\obj\Debug\net8.0-windows\refint\GiocoDellaVita.dll
+C:\Users\aless\Desktop\Nuova cartella\classi-AlessandroPigaiani-GiocoDellaVita\obj\Debug\net8.0-windows\GiocoDellaVita.pdb
+C:\Users\aless\Desktop\Nuova cartella\classi-AlessandroPigaiani-GiocoDellaVita\obj\Debug\net8.0-windows\GiocoDellaVita.genruntimeconfig.cache
+C:\Users\aless\Desktop\Nuova cartella\classi-AlessandroPigaiani-GiocoDellaVita\obj\Debug\net8.0-windows\ref\GiocoDellaVita.dll
+C:\Users\aless\Desktop\muniz\classi-AlessandroPigaiani-GiocoDellaVita\bin\Debug\net8.0-windows\GiocoDellaVita.exe
+C:\Users\aless\Desktop\muniz\classi-AlessandroPigaiani-GiocoDellaVita\bin\Debug\net8.0-windows\GiocoDellaVita.deps.json
+C:\Users\aless\Desktop\muniz\classi-AlessandroPigaiani-GiocoDellaVita\bin\Debug\net8.0-windows\GiocoDellaVita.runtimeconfig.json
+C:\Users\aless\Desktop\muniz\classi-AlessandroPigaiani-GiocoDellaVita\bin\Debug\net8.0-windows\GiocoDellaVita.dll
+C:\Users\aless\Desktop\muniz\classi-AlessandroPigaiani-GiocoDellaVita\bin\Debug\net8.0-windows\GiocoDellaVita.pdb
+C:\Users\aless\Desktop\muniz\classi-AlessandroPigaiani-GiocoDellaVita\obj\Debug\net8.0-windows\GiocoDellaVita.Campo.resources
+C:\Users\aless\Desktop\muniz\classi-AlessandroPigaiani-GiocoDellaVita\obj\Debug\net8.0-windows\GiocoDellaVita.Impostazioni.resources
+C:\Users\aless\Desktop\muniz\classi-AlessandroPigaiani-GiocoDellaVita\obj\Debug\net8.0-windows\GiocoDellaVita.Properties.Resources.resources
+C:\Users\aless\Desktop\muniz\classi-AlessandroPigaiani-GiocoDellaVita\obj\Debug\net8.0-windows\GiocoDellaVita.csproj.GenerateResource.cache
+C:\Users\aless\Desktop\muniz\classi-AlessandroPigaiani-GiocoDellaVita\obj\Debug\net8.0-windows\GiocoDellaVita.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aless\Desktop\muniz\classi-AlessandroPigaiani-GiocoDellaVita\obj\Debug\net8.0-windows\GiocoDellaVita.AssemblyInfoInputs.cache
+C:\Users\aless\Desktop\muniz\classi-AlessandroPigaiani-GiocoDellaVita\obj\Debug\net8.0-windows\GiocoDellaVita.AssemblyInfo.cs
+C:\Users\aless\Desktop\muniz\classi-AlessandroPigaiani-GiocoDellaVita\obj\Debug\net8.0-windows\GiocoDellaVita.csproj.CoreCompileInputs.cache
+C:\Users\aless\Desktop\muniz\classi-AlessandroPigaiani-GiocoDellaVita\obj\Debug\net8.0-windows\GiocoDellaVita.dll
+C:\Users\aless\Desktop\muniz\classi-AlessandroPigaiani-GiocoDellaVita\obj\Debug\net8.0-windows\refint\GiocoDellaVita.dll
+C:\Users\aless\Desktop\muniz\classi-AlessandroPigaiani-GiocoDellaVita\obj\Debug\net8.0-windows\GiocoDellaVita.pdb
+C:\Users\aless\Desktop\muniz\classi-AlessandroPigaiani-GiocoDellaVita\obj\Debug\net8.0-windows\GiocoDellaVita.genruntimeconfig.cache
+C:\Users\aless\Desktop\muniz\classi-AlessandroPigaiani-GiocoDellaVita\obj\Debug\net8.0-windows\ref\GiocoDellaVita.dll
+C:\Users\aless\Desktop\muniz\classi-AlessandroPigaiani-GiocoDellaVita\obj\Debug\net8.0-windows\GiocoDellaVita.Log.resources
