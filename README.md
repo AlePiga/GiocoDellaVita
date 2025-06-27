@@ -35,7 +35,7 @@ Ognuna di queste creature ha comportamenti unici, come la caccia per i carnivori
 	 - Irlanda
 	 - Cina
 
--   **Campo di Gioco**: Contiene una griglia con l'ecosistema, dove le creature interagiscono tra loro. Sono presenti tre pulsanti per:
+-   **Campo di gioco**: Contiene una griglia con l'ecosistema, dove le creature interagiscono tra loro. Sono presenti tre pulsanti per:
 	- Avviare la simulazione
 	- Resettare la simulazione
 	- Aprire la scheda di log
