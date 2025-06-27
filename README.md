@@ -16,7 +16,7 @@ Ognuna di queste creature ha comportamenti unici, come la caccia per i carnivori
 3. Una volta configurati i parametri, premi su "Inizia" per avviare il campo di gioco.
 4.  Premi "Avvia" per avviare la simulazione.
 5. Ora puoi osservare le interazioni tra le creature e l'evolversi dell'ecosistema in tempo reale!
-6. Una volta terminata la simulazione, premi su "Reset" e successivamente 
+6. Una volta terminata la simulazione, premi su "Reset" e successivamente di nuovo su "Inizia" per riavviarla!
 
 ## Creature
 
