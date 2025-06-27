@@ -44,7 +44,7 @@ Ognuna di queste creature ha comportamenti unici, come la caccia per i carnivori
 
 -   **Log**: Una pagina che documenta ogni azione che accade nel corso della simulazione. È possibile modificare la grandezza del testo nel menù a tendina.
 
-Puoi visualizzare il diagramma UML delle classi [cliccando qui](https://files.catbox.moe/1s2961.pdf)
+Puoi visualizzare il diagramma UML delle classi del progetto [cliccando qui.](https://files.catbox.moe/1s2961.pdf)
 
 ## Tecnologie utilizzate
 
